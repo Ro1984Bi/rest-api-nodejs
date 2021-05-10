@@ -1,0 +1,17 @@
+[
+    {
+        "id":"1",
+        "title":"Terminator",
+        "director":"James Cameron",
+        "Year":"1986",
+        "Rating":"9"
+    },
+
+    {
+        "id":"2",
+        "title":"E.T",
+        "director":"Steven Spielberg",
+        "Year":"1984",
+        "Rating":"9"
+    }
+]
